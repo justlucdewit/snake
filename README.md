@@ -1,5 +1,5 @@
-# snake
-a snake game that runs inside your terminal!
+# Snake
+A snake game that runs inside your terminal!
 
 ## installation
 ```
@@ -10,4 +10,4 @@ npm link
 ```
 
 ## usage
-run `snake` in your terminal, and enjoy!
+Run `snake` in your terminal, and enjoy!
