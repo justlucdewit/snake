@@ -1,12 +1,12 @@
 # snake
-a snake game that runs inside your terminal!
+A snake game that runs inside your terminal!
 
-## installation
+## Installation
 ```
 git clone https://github.com/justlucdewit/snake
 npm install
 npm link
 ```
 
-## usage
-run `snake` in your terminal, and enjoy!
+## Usage
+Run `snake` in your terminal, and enjoy!
